@@ -12,8 +12,7 @@ I'm a cyber explorer<br>president at FACT Amrita (Forensics club)<br>Security An
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaBhuvan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaBhuvan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MokshagnaBhuvan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
